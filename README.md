@@ -1,16 +1,22 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!--
-**vitorgpereira1/vitorgpereira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Estou estudando desenvolvimento de software e pretendo atuar como backend developer.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Linguagens: <strong>Java.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Ferramentas: <strong>Visual studio code.</strong>
+</p>
+
+<p align="left">
+  💌 vitorgp14@hotmail.com: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=vitorgp14@hotmail.com" /></a>
+</p>
