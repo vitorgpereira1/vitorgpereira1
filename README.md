@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Java.</strong>
+  👨‍💻 Linguagens: <strong>Java.</strong>
 </p>
 
 <p align="left">
